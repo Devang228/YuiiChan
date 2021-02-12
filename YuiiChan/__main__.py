@@ -105,7 +105,7 @@ And the following:
     "" if not ALLOW_EXCL else "\nAll commands can either be used with / or !.\n",
 )
 
-SAITAMA_IMG = "https://telegra.ph/file/69a84b4548087b06afef4.jpg"
+SAITAMA_IMG = "https://telegra.ph/file/204dda1e49e1c6179b0e1.jpg"
 
 DONATE_STRING = """Heya, glad to hear you want to donate!
 You can donate to the original writer of the Base code, Paul
